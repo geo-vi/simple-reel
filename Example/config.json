@@ -1,0 +1,7 @@
+{
+  "reelCount": 4,
+  "preloadedNumbers": [20, 20, 20, 20],
+  "result": [2,3,4,5],
+  "spinTime": 3000,
+  "spinDifferenceTime": 800
+}
